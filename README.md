@@ -1,10 +1,24 @@
-### Hi there 👋
+### Hi, Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align="right" alt="Developer Usama Sarwar" src="code.gif" width="500" height="320" />
 
-<!--
-**MoonRana/MoonRana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Iam a Software Engineer `/Moon Rana/`
+- 🎓 1st Year Student  of COMSATS University Islamabad
+- 🏛 Senior Team Lead at Bytrix Technologies
+- 💻 Cross Platform App Developer
+- ⚡ Expert at developing eCommerce Solutions
+- 🌱 I’m currently learning **Data Science**
+- 🔭 I’m currently working on project **AlShaafi** `AI & ML`
+- ☕️ Coffee Lover
+- 🇵🇰 Faisalabad, Punjab, Pakistan
+- 📱 (+92) 31 0000 777 3
 
-Here are some ideas to get you started:
+<br><br>
 
+<div align="center">
+<a href="https://usama.dev">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a> 
+<a href="https://github.com/usamasarwar/">
+<img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
