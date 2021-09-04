@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning **Data Science**
 - 🔭 I’m currently working on project **AlShaafi** `AI & ML`
 - ☕️ Coffee Lover
-- 🇵🇰 Faisalabad, Punjab, Pakistan
-- 📱 (+92) 31 0000 777 3
+- 🇵🇰 Islamabad, Pakistan
+- 📱 (+92) 3441763511
 
 <br><br>
 
