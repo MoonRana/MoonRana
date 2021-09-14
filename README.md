@@ -29,7 +29,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MoonRana&label=Profile%20views&color=0e75b6&style=flat" alt="MoonRana" /> </p>
 
 ### Languages⚡
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MoonRana&theme=onedark)](https://github.com/MoonRana/github-profile-trophy)
 
