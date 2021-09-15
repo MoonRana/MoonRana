@@ -42,18 +42,21 @@
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/-Tailwind-563D7C?style=flat-square&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/-Tailwind-563D7C?style=flat-square&logo=tailwind)
+![Django](https://img.shields.io/badge/-Django-563D7C?style=flat-square&logo=django)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-563D7C?style=flat-square&logo=matplotlib)
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
 
-
 ## 📈 Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MoonRana&show_icons=true&theme=highcontrast" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MoonRana&theme=highcontrast" />
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MoonRana&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MoonRana&theme=tokyonight" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoonRana&show_icons=true&locale=en&layout=compact=true&theme=highcontrast" alt="deepakkumarkhatri" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoonRana&show_icons=true&locale=en&layout=compact=true&theme=tokyonightt" alt="MoonRana" /></p>
 
 
 
