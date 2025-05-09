@@ -1,9 +1,6 @@
 ### Hi, Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 😄 Iam a Software Engineer `/Moon Rana/`
-- ⚡ Expert at developing eCommerce & Websites Solutions
-- 🌱 I’m currently learning **Java**, **Data Science**, **Flutter**
-- 🔭 I’m currently working on project **Face Detection Python**`
 - ☕️ Coffee Lover
 - 💬 Ask me about... **Open Source Contribution** /  **Blogs**/**Digital Markeeting**- 
 - 🇵🇰 Islamabad, Pakistan
